@@ -1,5 +1,6 @@
 # Additive-Manufacturing-Domain-adaptation-for-Bridging-Dissimilar-Process-Maps
 Monitoring Of Laser Powder Bed Fusion Process By Bridging Dissimilar Process Maps Using Deep Learning-based Domain Adaptation on Acoustic Emissions
+![Graphical abstract](https://github.com/vigneashpandiyan/Additive-Manufacturing-Domain-adaptation-for-Bridging-Dissimilar-Process-Maps/assets/39007209/fb7d9def-e346-4d26-8ea2-b85c9d80f4c3)
 
 # Journal link
 https://doi.org/10.1016/j.jmapro.2022.07.033
