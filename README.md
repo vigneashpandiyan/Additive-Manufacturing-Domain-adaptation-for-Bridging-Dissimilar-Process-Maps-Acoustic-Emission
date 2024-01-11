@@ -5,7 +5,7 @@ Monitoring Of Laser Powder Bed Fusion Process By Bridging Dissimilar Process Map
 ![Graphical abstract](https://github.com/vigneashpandiyan/Additive-Manufacturing-Domain-adaptation-for-Bridging-Dissimilar-Process-Maps/assets/39007209/fb7d9def-e346-4d26-8ea2-b85c9d80f4c3)
 
 # Journal link
-https://doi.org/10.1016/j.jmapro.2022.07.033
+https://doi.org/10.1016/j.addma.2024.103974
 
 ![LPBF](https://github.com/vigneashpandiyan/Additive-Manufacturing-Contrastive-Learners/assets/39007209/aa6fa98d-a0c8-4424-8fbf-aae661a5bdbd)
 
@@ -33,17 +33,16 @@ Finding the shared latent characteristics between the source and target domains 
 ```bash
 git clone https://github.com/vigneashpandiyan/Additive-Manufacturing-Domain-adaptation-for-Bridging-Dissimilar-Process-Maps
 cd Additive-Manufacturing-Domain-adaptation-for-Bridging-Dissimilar-Process-Maps
-python Main.py
+python ..codes/ CNN_Main.py
+python ..codes/ CNN_Domain Adaptation.py
 ```
 
 # Citation
 ```
-@article{pandiyan2022situ,
-  title={},
-  author={},
-  journal={},
-  volume={},
-  pages={},
-  year={},
+@article{pandiyan2024Monitoring,
+  title={Monitoring Of Laser Powder Bed Fusion Process By Bridging Dissimilar Process Maps Using Deep Learning-based Domain Adaptation on Acoustic Emissions},
+  author={Pandiyan, Vigneashwara and Wróbel, Rafał  and Roland Axel, Richter and Leparoux, Marc and Leinenbach, Christian and Shevchik, Sergey },
+  journal={Additive Manufacturing},
+  year={2024},
   publisher={Elsevier}
 }
